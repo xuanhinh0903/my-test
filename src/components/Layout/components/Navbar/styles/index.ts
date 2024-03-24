@@ -8,6 +8,7 @@ export const RootStyled = styled.div`
   }
 
   .your-library-section {
-    height: 75%;
+    /* height: 75%; */
+    height: 100%;
   }
 `;

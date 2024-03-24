@@ -1,9 +1,12 @@
-'use client'
+"use client";
 
-import { Navbar, Player } from "./components";
+import {
+  Navbar,
+  Player,
+} from "./components";
 
-import { Box } from "@mui/material";
-import { RootStyled } from "./styles";
+import {Box} from "@mui/material";
+import {RootStyled} from "./styles";
 
 export const Layout = ({
   children,
